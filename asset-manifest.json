@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/neulHa33/react-for-beginners/static/css/main.e6c13ad2.css",
+    "main.js": "/neulHa33/react-for-beginners/static/js/main.c4ca390d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/neulHa33/react-for-beginners/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/neulHa33/react-for-beginners/index.html",
+    "main.e6c13ad2.css.map": "/neulHa33/react-for-beginners/static/css/main.e6c13ad2.css.map",
+    "main.c4ca390d.js.map": "/neulHa33/react-for-beginners/static/js/main.c4ca390d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/neulHa33/react-for-beginners/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c4ca390d.js"
+  ]
+}
